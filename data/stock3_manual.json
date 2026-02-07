@@ -1,1 +1,10 @@
-{}
+{
+  "DE0005194062": {
+    "isin": "DE0005194062",
+    "asof": "2026-02-07",
+    "price_eur": 3.4,
+    "rating": "hold",
+    "best_buy_price_eur": 2.8,
+    "notes": "manual stock3 snapshot"
+  }
+}
